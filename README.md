@@ -23,7 +23,7 @@
 | 5. | cub3d | explore ray-casting| - | 0 / 100% |
 | 5. | NetPractice | discover networking | ✔️ | [![libacchu's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2846383)](https://github.com/JaeSeoKim/badge42) |
 | 4. | Philosophers | learning how threads work | ✔️ | [![libacchu's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2802172)](https://github.com/JaeSeoKim/badge42) |
-| 4. | [minishell]([url](https://github.com/libacchu/minishell)) | create a simple shell | ✔️ | [![libacchu's 42 minishell Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2687183)](https://github.com/JaeSeoKim/badge42) |
+| 4. | [minishell](https://github.com/libacchu/minishell) | create a simple shell | ✔️ | [![libacchu's 42 minishell Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2687183)](https://github.com/JaeSeoKim/badge42) |
 | 3. | fract-ol | fractals | ❌ | forbidden |
 | 3. | FdF | “iron wire” meshing in 3D | ❌ | forbidden |
 | 3. | so_long | 2D game with minilibx | ✔️ | [![libacchu's 42 so_long Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2574690)](https://github.com/JaeSeoKim/badge42) |
