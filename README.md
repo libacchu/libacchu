@@ -13,8 +13,28 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=libacchu&show_icons=true&locale=en&layout=compact" alt="libacchu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=libacchu&show_icons=true&locale=en" alt="libacchu" /></p>
-
-|Circle | No. | Project | Description | Status | Grade |
-| --- | --- | --- | --- | --- | --- |
-| (1) | 1. | Libft | My first Library | ✔️ | 108 / 100% |
-
+  
+|Circle | Project | Description | Status | Grade |
+| :-: | :- | :- | :-: | :-: |
+| 7. | ft_transcendence | creating a website for a Ping Pong contest | - | 0 / 100% |
+| 6. | ft_irc | Create your own IRC server in C++ | - | 0 / 100% |
+| 6. | webserv | write your own HTTP server | - | 0 / 100% |
+| 6. | Inception | virtualize several Docker images | - | 0 / 100% |
+| 6. | ft_containers | containers in C++ | - | 0 / 100% |
+| 5. | CPP Module | Intro to OOP in C++ | - | 0 / 100% |
+| 5. | miniRT | explore ray-casting | - | 0 / 100% |
+| 5. | cub3d | explore ray-casting| - | 0 / 100% |
+| 5. | NetPractice | discover networking | ✔️ | 100 / 100% |
+| 4. | Philosophers | learning how threads work | ✔️ | 100 / 100% |
+| 4. | minishell | create a simple shell | ✔️ | 100 / 100% |
+| 3. | fract-ol | fractals | ❌ | forbidden |
+| 3. | FdF | “iron wire” meshing in 3D | ❌ | forbidden |
+| 3. | so_long | 2D game with minilibx | ✔️ | 100 / 100% |
+| 3. | pipeX | understanding redirections and pipes | ❌ | forbidden |
+| 3. | minitalk | data exchange program using UNIX signals | ✔️ | 125 / 100% |
+| 3. | push_swap | Sorting data on a stack | ✔️ | 84 / 100% |
+| 2. | Born2beroot | Linux Fundamentals | ✔️ | 110 / 100% |
+| 2. | get_next_line | read from a fd line by line | ✔️ | 125 / 100% |
+| 2. | ft_printf | Recode the printf function | ✔️ | 100 / 100% |
+| 1. | Libft | My first Library | ✔️ | 108 / 100% |
+ 
