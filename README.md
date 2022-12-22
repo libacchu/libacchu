@@ -14,6 +14,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=libacchu&show_icons=true&locale=en" alt="libacchu" /></p>
 
+<h3 align="left">
 |Circle | No. | Project | Description | Status | Grade |
 | --- | --- | --- | --- | --- | --- |
 | (1) | 1. | Libft | My first Library | ✔️ | 108 / 100% |
+
+ </h3>
