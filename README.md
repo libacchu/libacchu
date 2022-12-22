@@ -26,7 +26,7 @@
 | 3. | FdF | “iron wire” meshing in 3D | ❌ | forbidden |
 | 3. | so_long | 2D game with minilibx | ✔️ | 100 / 100% |
 | 3. | pipeX | understanding redirections and pipes | ❌ | forbidden |
-| 3. | minitalk | data exchange program using UNIX signals | ✔️ | 125 / 100% |
+| 3. | [minitalk](https://github.com/libacchu/minitalk) | data exchange program using UNIX signals | ✔️ | 125 / 100% |
 | 3. | push_swap | sorting data on a stack | ✔️ | 84 / 100% |
 | 2. | Born2beroot | Linux Fundamentals | ✔️ | 110 / 100% |
 | 2. | get_next_line | read from a fd line by line | ✔️ | 125 / 100% |
