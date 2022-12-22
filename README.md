@@ -31,7 +31,7 @@
 | 3. | [minitalk](https://github.com/libacchu/minitalk) | data exchange program using UNIX signals | ✔️ | [![libacchu's 42 minitalk Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2538799)](https://github.com/JaeSeoKim/badge42) |
 | 3. | push_swap | sorting data on a stack | ✔️ | [![libacchu's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2581591)](https://github.com/JaeSeoKim/badge42) |
 | 2. | Born2beroot | Linux Fundamentals | ✔️ | [![libacchu's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2470185)](https://github.com/JaeSeoKim/badge42) |
-| 2. | get_next_line | read from a fd line by line | ✔️ | [![libacchu's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2514344)](https://github.com/JaeSeoKim/badge42) |
+| 2. | [get_next_line](https://github.com/libacchu/get_next_line) | read from a fd line by line | ✔️ | [![libacchu's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2514344)](https://github.com/JaeSeoKim/badge42) |
 | 2. | [ft_printf](https://github.com/libacchu/ft_printf) | recode the printf function | ✔️ | [![libacchu's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2478534)](https://github.com/JaeSeoKim/badge42) |
 | 1. | [Libft](https://github.com/libacchu/libft-42) | my first Library | ✔️ | [![libacchu's 42 Libft Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2414987)](https://github.com/JaeSeoKim/badge42) |
  
