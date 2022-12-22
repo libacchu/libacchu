@@ -12,11 +12,11 @@
 |Circle | Project | Description | Status | Grade |
 | :-: | :- | :- | :-: | :-: |
 | 7. | ft_transcendence | creating a website for a Ping Pong contest | - | 0 / 100% |
-| 6. | ft_irc | Create your own IRC server in C++ | - | 0 / 100% |
+| 6. | ft_irc | create your own IRC server in C++ | - | 0 / 100% |
 | 6. | webserv | write your own HTTP server | - | 0 / 100% |
 | 6. | Inception | virtualize several Docker images | - | 0 / 100% |
 | 6. | ft_containers | containers in C++ | - | 0 / 100% |
-| 5. | CPP Module | Intro to OOP in C++ | - | 0 / 100% |
+| 5. | CPP Module | intro to OOP in C++ | - | 0 / 100% |
 | 5. | miniRT | explore ray-casting | - | 0 / 100% |
 | 5. | cub3d | explore ray-casting| - | 0 / 100% |
 | 5. | NetPractice | discover networking | ✔️ | 100 / 100% |
@@ -27,9 +27,9 @@
 | 3. | so_long | 2D game with minilibx | ✔️ | 100 / 100% |
 | 3. | pipeX | understanding redirections and pipes | ❌ | forbidden |
 | 3. | minitalk | data exchange program using UNIX signals | ✔️ | 125 / 100% |
-| 3. | push_swap | Sorting data on a stack | ✔️ | 84 / 100% |
+| 3. | push_swap | sorting data on a stack | ✔️ | 84 / 100% |
 | 2. | Born2beroot | Linux Fundamentals | ✔️ | 110 / 100% |
 | 2. | get_next_line | read from a fd line by line | ✔️ | 125 / 100% |
-| 2. | ft_printf | Recode the printf function | ✔️ | 100 / 100% |
-| 1. | Libft | My first Library | ✔️ | 108 / 100% |
+| 2. | ft_printf | recode the printf function | ✔️ | 100 / 100% |
+| 1. | Libft | my first Library | ✔️ | 108 / 100% |
  
