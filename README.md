@@ -18,7 +18,7 @@
 | 6. | webserv | write your own HTTP server | - | 0 / 100% |
 | 6. | Inception | virtualize several Docker images | - | 0 / 100% |
 | 6. | ft_containers | containers in C++ | - | 0 / 100% |
-| 5. | CPP Module | intro to OOP in C++ | - | [![libacchu's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2914569)](https://github.com/JaeSeoKim/badge42) |
+| 5. | [CPP Module](https://github.com/libacchu/CPP_Module) | intro to OOP in C++ | - | [![libacchu's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2914569)](https://github.com/JaeSeoKim/badge42) |
 | 5. | miniRT | explore ray-casting | - | 0 / 100% |
 | 5. | cub3d | explore ray-casting| - | 0 / 100% |
 | 5. | NetPractice | discover networking | ✔️ | [![libacchu's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2846383)](https://github.com/JaeSeoKim/badge42) |
