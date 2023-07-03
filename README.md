@@ -30,8 +30,8 @@
 | 3. | pipeX | understanding redirections and pipes | ❌ | forbidden |
 | 3. | [minitalk](https://github.com/libacchu/minitalk) | data exchange program using UNIX signals | ✔️ | 125% |
 | 3. | push_swap | sorting data on a stack | ✔️ | 80% |
-| 2. | Born2beroot | Linux Fundamentals | ✔️ | 110% |
-| 2. | [get_next_line](https://github.com/libacchu/get_next_line) | read from a fd line by line | ✔️ | 125%|
-| 2. | [ft_printf](https://github.com/libacchu/ft_printf) | recode the printf function | ✔️ | 100% |
-| 1. | [Libft](https://github.com/libacchu/libft-42) | my first Library | ✔️ | 108% |
+| 2. | Born2beroot | Linux Fundamentals | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2470185" alt="libacchu's 42 Born2beroot Score" /></a> |
+| 2. | [get_next_line](https://github.com/libacchu/get_next_line) | read from a fd line by line | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2514344" alt="libacchu's 42 get_next_line Score" /></a>|
+| 2. | [ft_printf](https://github.com/libacchu/ft_printf) | recode the printf function | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2478534" alt="libacchu's 42 ft_printf Score" /></a> |
+| 1. | [Libft](https://github.com/libacchu/libft-42) | my first Library | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2414987" alt="libacchu's 42 Libft Score" /></a> |
  
