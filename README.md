@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lincoln</h1>
-<h3 align="center">As a highly motivated and resilient software student, I am gaining valuable programming skills and experience through my education at 42 Wolfsburg.</h3>
+<h3 align="center"> LEARN | BUILD | REPEAT </h3>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/stats?cursusId=21&coalitionId=piscine" alt="libacchu's 42 stats" /></a>
 
