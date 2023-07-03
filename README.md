@@ -13,7 +13,7 @@
   
 |Circle | Project | Description | Status | Grade |
 | :-: | :- | :- | :-: | :-: |
-| 7. | ft_transcendence | creating a website for a Ping Pong contest | - | 0 / 100% |
+| 7. | ft_transcendence | creating a website for a Ping Pong contest | - | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/3105897" alt="libacchu's 42 ft_transcendence Score" /></a> |
 | 6. | ft_irc | create your own IRC server in C++ | ❌ | forbidden |
 | 6. | webserv | write your own HTTP server | ✔️ | 125% |
 | 6. | Inception | virtualize several Docker images | ✔️ | 115% |
