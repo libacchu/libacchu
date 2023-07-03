@@ -14,24 +14,24 @@
 |Circle | Project | Description | Status | Grade |
 | :-: | :- | :- | :-: | :-: |
 | 7. | ft_transcendence | creating a website for a Ping Pong contest | - | 0 / 100% |
-| 6. | ft_irc | create your own IRC server in C++ | - | 0 / 100% |
-| 6. | webserv | write your own HTTP server | - | 0 / 100% |
-| 6. | Inception | virtualize several Docker images | - | 0 / 100% |
-| 6. | ft_containers | containers in C++ | - | 0 / 100% |
-| 5. | [CPP Module](https://github.com/libacchu/CPP_Module) | intro to OOP in C++ | - | [![libacchu's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2914569)](https://github.com/JaeSeoKim/badge42) |
-| 5. | miniRT | explore ray-casting | - | 0 / 100% |
-| 5. | cub3d | explore ray-casting| - | 0 / 100% |
-| 5. | NetPractice | discover networking | ✔️ | [![libacchu's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2846383)](https://github.com/JaeSeoKim/badge42) |
-| 4. | Philosophers | learning how threads work | ✔️ | [![libacchu's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2802172)](https://github.com/JaeSeoKim/badge42) |
-| 4. | [minishell](https://github.com/libacchu/minishell) | create a simple shell | ✔️ | [![libacchu's 42 minishell Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2687183)](https://github.com/JaeSeoKim/badge42) |
+| 6. | ft_irc | create your own IRC server in C++ | ❌ | forbidden |
+| 6. | webserv | write your own HTTP server | ✔️ | 125% |
+| 6. | Inception | virtualize several Docker images | ✔️ | 115% |
+| 6. | ft_containers/CPP 09 | containers in C++ | ✔️ | 100% |
+| 5. | [CPP Module](https://github.com/libacchu/CPP_Module) | intro to OOP in C++ | ✔️ | 100% |
+| 5. | miniRT | explore ray-casting | ❌ | forbidden |
+| 5. | cub3d | explore ray-casting| ✔️  | 125% |
+| 5. | NetPractice | discover networking | ✔️ | 100% |
+| 4. | Philosophers | learning how threads work | ✔️ | 100% |
+| 4. | [minishell](https://github.com/libacchu/minishell) | create a simple shell | ✔️ | 100% |
 | 3. | fract-ol | fractals | ❌ | forbidden |
 | 3. | FdF | “iron wire” meshing in 3D | ❌ | forbidden |
-| 3. | so_long | 2D game with minilibx | ✔️ | [![libacchu's 42 so_long Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2574690)](https://github.com/JaeSeoKim/badge42) |
+| 3. | so_long | 2D game with minilibx | ✔️ | 100% |
 | 3. | pipeX | understanding redirections and pipes | ❌ | forbidden |
-| 3. | [minitalk](https://github.com/libacchu/minitalk) | data exchange program using UNIX signals | ✔️ | [![libacchu's 42 minitalk Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2538799)](https://github.com/JaeSeoKim/badge42) |
-| 3. | push_swap | sorting data on a stack | ✔️ | [![libacchu's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2581591)](https://github.com/JaeSeoKim/badge42) |
-| 2. | Born2beroot | Linux Fundamentals | ✔️ | [![libacchu's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2470185)](https://github.com/JaeSeoKim/badge42) |
-| 2. | [get_next_line](https://github.com/libacchu/get_next_line) | read from a fd line by line | ✔️ | [![libacchu's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2514344)](https://github.com/JaeSeoKim/badge42) |
-| 2. | [ft_printf](https://github.com/libacchu/ft_printf) | recode the printf function | ✔️ | [![libacchu's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2478534)](https://github.com/JaeSeoKim/badge42) |
-| 1. | [Libft](https://github.com/libacchu/libft-42) | my first Library | ✔️ | 108 |
+| 3. | [minitalk](https://github.com/libacchu/minitalk) | data exchange program using UNIX signals | ✔️ | 125% |
+| 3. | push_swap | sorting data on a stack | ✔️ | 80% |
+| 2. | Born2beroot | Linux Fundamentals | ✔️ | 110% |
+| 2. | [get_next_line](https://github.com/libacchu/get_next_line) | read from a fd line by line | ✔️ | 125%|
+| 2. | [ft_printf](https://github.com/libacchu/ft_printf) | recode the printf function | ✔️ | 100% |
+| 1. | [Libft](https://github.com/libacchu/libft-42) | my first Library | ✔️ | 108% |
  
