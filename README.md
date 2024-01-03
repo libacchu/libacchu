@@ -17,23 +17,23 @@
 | :-: | :- | :- | :-: | :-: |
 | 7. | ft_transcendence | creating a website for a Ping Pong contest | ✔️ | 100% |
 | 6. | ft_irc | create your own IRC server in C++ | ❌ | forbidden |
-| 6. | webserv | write your own HTTP server | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2949683" alt="libacchu's 42 webserv Score" /></a> |
-| 6. | [Inception](https://github.com/libacchu/Inception) | virtualize several Docker images | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2966519" alt="libacchu's 42 Inception Score" /></a> |
-| 6. | ft_containers/CPP 09 | containers in C++ | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/3029278" alt="libacchu's 42 CPP Module 09 Score" /></a> |
-| 5. | [CPP Module](https://github.com/libacchu/CPP_Module) | intro to OOP in C++ | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2933374" alt="libacchu's 42 CPP Module 08 Score" /></a> |
+| 6. | webserv | write your own HTTP server | ✔️ | 125% |
+| 6. | [Inception](https://github.com/libacchu/Inception) | virtualize several Docker images | ✔️ | 115% |
+| 6. | ft_containers/CPP 09 | containers in C++ | ✔️ | 100% |
+| 5. | [CPP Module](https://github.com/libacchu/CPP_Module) | intro to OOP in C++ | ✔️ | 100% |
 | 5. | miniRT | explore ray-casting | ❌ | forbidden |
-| 5. | cub3d | explore ray-casting| ✔️  | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2930685" alt="libacchu's 42 cub3d Score" /></a> |
-| 5. | NetPractice | discover networking | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2846383" alt="libacchu's 42 NetPractice Score" /></a> |
-| 4. | Philosophers | learning how threads work | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2802172" alt="libacchu's 42 Philosophers Score" /></a> |
-| 4. | [minishell](https://github.com/libacchu/minishell) | create a simple shell | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2687183" alt="libacchu's 42 minishell Score" /></a> |
+| 5. | cub3d | explore ray-casting| ✔️  | 125% |
+| 5. | NetPractice | discover networking | ✔️ | 100% |
+| 4. | Philosophers | learning how threads work | ✔️ | 100% |
+| 4. | [minishell](https://github.com/libacchu/minishell) | create a simple shell | ✔️ | 100% |
 | 3. | fract-ol | fractals | ❌ | forbidden |
 | 3. | FdF | “iron wire” meshing in 3D | ❌ | forbidden |
-| 3. | so_long | 2D game with minilibx | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2574690" alt="libacchu's 42 so_long Score" /></a> |
+| 3. | so_long | 2D game with minilibx | ✔️ | 100% |
 | 3. | pipeX | understanding redirections and pipes | ❌ | forbidden |
-| 3. | [minitalk](https://github.com/libacchu/minitalk) | data exchange program using UNIX signals | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2538799" alt="libacchu's 42 minitalk Score" /></a> |
-| 3. | push_swap | sorting data on a stack | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2581591" alt="libacchu's 42 push_swap Score" /></a> |
-| 2. | Born2beroot | Linux Fundamentals | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2470185" alt="libacchu's 42 Born2beroot Score" /></a> |
-| 2. | [get_next_line](https://github.com/libacchu/get_next_line) | read from a fd line by line | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2514344" alt="libacchu's 42 get_next_line Score" /></a>|
-| 2. | [ft_printf](https://github.com/libacchu/ft_printf) | recode the printf function | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2478534" alt="libacchu's 42 ft_printf Score" /></a> |
-| 1. | [Libft](https://github.com/libacchu/libft-42) | my first Library | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2414987" alt="libacchu's 42 Libft Score" /></a> |
+| 3. | [minitalk](https://github.com/libacchu/minitalk) | data exchange program using UNIX signals | ✔️ | 125% |
+| 3. | push_swap | sorting data on a stack | ✔️ | 84% |
+| 2. | Born2beroot | Linux Fundamentals | ✔️ | 110% |
+| 2. | [get_next_line](https://github.com/libacchu/get_next_line) | read from a fd line by line | ✔️ | 125% |
+| 2. | [ft_printf](https://github.com/libacchu/ft_printf) | recode the printf function | ✔️ | 100% |
+| 1. | [Libft](https://github.com/libacchu/libft-42) | my first Library | ✔️ | 108% |
  
