@@ -2,7 +2,7 @@
 <h3 align="center"> LEARN | BUILD | REPEAT </h3>
 
 <h3 align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/stats?cursusId=21&coalitionId=piscine" alt="libacchu's 42 stats"/></a>
+<h2>Level: 11.15 %, Grade: Member</h2>
 </h3>
 
 <p align="left">
@@ -15,7 +15,7 @@
   
 |Circle | Project | Description | Status | Grade |
 | :-: | :- | :- | :-: | :-: |
-| 7. | ft_transcendence | creating a website for a Ping Pong contest | - | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/3105897" alt="libacchu's 42 ft_transcendence Score" /></a> |
+| 7. | ft_transcendence | creating a website for a Ping Pong contest | ✔️ | 100% |
 | 6. | ft_irc | create your own IRC server in C++ | ❌ | forbidden |
 | 6. | webserv | write your own HTTP server | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2949683" alt="libacchu's 42 webserv Score" /></a> |
 | 6. | [Inception](https://github.com/libacchu/Inception) | virtualize several Docker images | ✔️ | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbz2enp500160fkz8jha4orj/project/2966519" alt="libacchu's 42 Inception Score" /></a> |
